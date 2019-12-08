@@ -1,0 +1,30 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+**/rebel.xml
+
+# Intellij
+.idea/
+#*.iml
+*.iws
+**/out
+
+# Mac
+.DS_Store
+
+# Maven
+**/log/
+**/target
+**/*.log
+**/tmp
+**/.tmp
+**/bin/**
+
+##**/.gitignore
+
+# vscode
+**/*.factorypath
+**/setting.json
+.vscode/
