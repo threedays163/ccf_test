@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="266e7b33-db1a-4f98-be24-4ddecfe69b84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ccf_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ccf_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ccf/_201909/_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ccf/_201909/_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ccf/_201909/_2/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ccf/_201909/_2/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,9 +46,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Uh1TVqcmpAZ66PxIEyus222cGl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -47,6 +59,68 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ccf._201909._1.Main" />
+      <module name="ccf_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ccf._201909._1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ccf._201909._2.Main" />
+      <module name="ccf_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ccf._201909._2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ccf._2013._1.Main" />
+      <module name="ccf_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ccf._2013._1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ccf._201909._2.Main2" />
+      <module name="ccf_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ccf._201909._2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -70,11 +144,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575794020822</updated>
-      <workItem from="1575794022351" duration="193000" />
+      <workItem from="1575794022351" duration="8812000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="359" key="GridCell.Tab.0.bottom" timestamp="1575801170052">
+      <screen x="0" y="1103" width="1920" height="985" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.0.bottom/0.1103.1920.985/0.23.1920.1057@0.1103.1920.985" timestamp="1575801170052" />
+    <state width="1878" height="359" key="GridCell.Tab.0.center" timestamp="1575801170051">
+      <screen x="0" y="1103" width="1920" height="985" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.0.center/0.1103.1920.985/0.23.1920.1057@0.1103.1920.985" timestamp="1575801170051" />
+    <state width="1878" height="359" key="GridCell.Tab.0.left" timestamp="1575801170050">
+      <screen x="0" y="1103" width="1920" height="985" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.0.left/0.1103.1920.985/0.23.1920.1057@0.1103.1920.985" timestamp="1575801170050" />
+    <state width="1878" height="359" key="GridCell.Tab.0.right" timestamp="1575801170051">
+      <screen x="0" y="1103" width="1920" height="985" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.0.right/0.1103.1920.985/0.23.1920.1057@0.1103.1920.985" timestamp="1575801170051" />
+    <state x="625" y="1320" width="670" height="676" key="search.everywhere.popup" timestamp="1575795696894">
+      <screen x="0" y="1103" width="1920" height="985" />
+    </state>
+    <state x="625" y="1320" width="670" height="676" key="search.everywhere.popup/0.1103.1920.985/0.23.1920.1057@0.1103.1920.985" timestamp="1575795696894" />
   </component>
 </project>
